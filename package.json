@@ -1,0 +1,13 @@
+{
+  "name": "zhixuegongfang",
+  "private": true,
+  "version": "0.1.0",
+  "description": "智学工坊：基于大模型的《Python程序设计》个性化学习资源多智能体系统",
+  "scripts": {
+    "dev": "npm --prefix backend run dev",
+    "check": "npm --prefix backend run check",
+    "build": "npm --prefix backend run build",
+    "start": "npm --prefix backend run start"
+  }
+}
+
